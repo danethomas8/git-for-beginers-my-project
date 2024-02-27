@@ -1,5 +1,5 @@
 Welcome to my project
 
-Author: Dane
+Author: Dane K
 
 Twitter: @danthomas1302
