@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to "Git for Beginers"
 
 
 Author: Dane K Thomas
